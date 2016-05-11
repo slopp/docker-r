@@ -1,4 +1,4 @@
-FROM rstudio/docker-r-base:latest
+FROM rstudio/docker-r-base:precise
 MAINTAINER Chad Barraford <chad@rstudio.com>
 
 ENV R_VERSION 3.0.3
