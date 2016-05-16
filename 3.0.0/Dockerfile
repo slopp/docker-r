@@ -1,5 +1,5 @@
 FROM rstudio/docker-r-base:precise
-MAINTAINER Chad Barraford <chad@rstudio.com>
+MAINTAINER RStudio Docker <docker@rstudio.com>
 
 ENV R_VERSION 3.0.0
 
