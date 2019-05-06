@@ -1,11 +1,11 @@
-docker-R3.X
+ShinyApps.io Testing
 ===========
 
-This installs R on top of the docker-r-base image.
+**STOP** - This is _most likely_ not what you are looking for. This repository
+supports a testing process outlined [here](https://github.com/rstudio/shinyapps-package-dependencies/blob/master/CONTRIBUTING.md).
 
-If you use the `latest` tag, you'll have the latest version of R which currently is 3.4.2.
+If you are looking for Docker images with R, created by RStudio, search for
+`rstudio/r-base` on DockerHub or visit https://github.com/rstudio/r-docker. We
+apologize for the naming - this repository and set of images will be deprecated
+in the future.
 
-The LANG is set to use UTF-8 encoding so its internationally friendly.
-
-## Note
-This is an "unofficial" docker image, use at own risk.
